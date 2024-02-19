@@ -1,0 +1,5 @@
+venv/
+compressed-files/
+.last-fetched
+.logs
+anime-offline-database-minified.json
